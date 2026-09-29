@@ -19,3 +19,5 @@ Sistema web para la representación y gestión de servicios comunitarios.
 ## Integrantes
 
 Paul Alfredo Benítez Arroyo
+Luis Gerardo Barajas Garcia 
+Flor Estefany Arroyo Estrada
